@@ -1,0 +1,4 @@
+- project:
+    templates:
+      - system-required
+      - noop-jobs
